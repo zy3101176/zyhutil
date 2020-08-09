@@ -1,4 +1,4 @@
-module gitee.com/zhuyuanhan/zyhutil
+module github.com/zy3101176/zyhutil
 require (
 	github.com/natefinch/lumberjack v2.0.0+incompatible
 	github.com/pkg/errors v0.9.1 // indirect
